@@ -1,0 +1,5 @@
+﻿  prueba_OMP.cpp
+D:\OPM\prueba_OMP\prueba_OMP\prueba_OMP.cpp(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\OPM\prueba_OMP\prueba_OMP\prueba_OMP.cpp(22,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OPM\prueba_OMP\prueba_OMP\prueba_OMP.cpp(13,5): warning C4101: 'i': variable local sin referencia
+  prueba_OMP.vcxproj -> D:\OPM\prueba_OMP\x64\Debug\prueba_OMP.exe
